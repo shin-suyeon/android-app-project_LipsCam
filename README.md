@@ -27,19 +27,24 @@
 ------------
 ## Application 
 1. 이미지에서 선택한 색상으로 테스트
+
 ![manual-img-1](https://user-images.githubusercontent.com/65906056/108841561-4e9c6900-761b-11eb-9e0a-d09150de05f7.png)
 ![manual-img-2](https://user-images.githubusercontent.com/65906056/108841564-4f34ff80-761b-11eb-838a-2f0c7b24544b.png)
 
 2. 팔레트에서 선택한 색상으로 테스트
+
 ![manual-img-3](https://user-images.githubusercontent.com/65906056/108841565-4f34ff80-761b-11eb-84b0-f15238f731d0.png)
 
 3. 테스트 후, 비슷한 색상의 제품 찾기 및 발색
+
 ![manual-img-4](https://user-images.githubusercontent.com/65906056/108841568-4fcd9600-761b-11eb-8a77-b7371c2cce02.png)
 
 4. 제품을 선택하여 색상 테스트
+
 ![manual-img-5](https://user-images.githubusercontent.com/65906056/108841556-4d6b3c00-761b-11eb-853a-c30f5395c611.png)
 
 5. 선택한 제품 구매
+
 ![manual-img-6](https://user-images.githubusercontent.com/65906056/108841559-4e03d280-761b-11eb-864d-a1444a0a614b.png)
 
 
